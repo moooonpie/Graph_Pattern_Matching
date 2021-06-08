@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/robot/Documents/hw2/Graph_Pattern_Matching/build/main",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/program.dir/includes_CXX.rsp -g -O3 -Wall -std=c++11 -o CMakeFiles\\program.dir\\main.cc.obj -c C:\\Users\\robot\\Documents\\hw2\\Graph_Pattern_Matching\\main\\main.cc",
+  "file": "C:/Users/robot/Documents/hw2/Graph_Pattern_Matching/main/main.cc"
+},
+{
+  "directory": "C:/Users/robot/Documents/hw2/Graph_Pattern_Matching/build/main",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/program.dir/includes_CXX.rsp -g -O3 -Wall -std=c++11 -o CMakeFiles\\program.dir\\__\\src\\backtrack.cc.obj -c C:\\Users\\robot\\Documents\\hw2\\Graph_Pattern_Matching\\src\\backtrack.cc",
+  "file": "C:/Users/robot/Documents/hw2/Graph_Pattern_Matching/src/backtrack.cc"
+},
+{
+  "directory": "C:/Users/robot/Documents/hw2/Graph_Pattern_Matching/build/main",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/program.dir/includes_CXX.rsp -g -O3 -Wall -std=c++11 -o CMakeFiles\\program.dir\\__\\src\\candidate_set.cc.obj -c C:\\Users\\robot\\Documents\\hw2\\Graph_Pattern_Matching\\src\\candidate_set.cc",
+  "file": "C:/Users/robot/Documents/hw2/Graph_Pattern_Matching/src/candidate_set.cc"
+},
+{
+  "directory": "C:/Users/robot/Documents/hw2/Graph_Pattern_Matching/build/main",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/program.dir/includes_CXX.rsp -g -O3 -Wall -std=c++11 -o CMakeFiles\\program.dir\\__\\src\\graph.cc.obj -c C:\\Users\\robot\\Documents\\hw2\\Graph_Pattern_Matching\\src\\graph.cc",
+  "file": "C:/Users/robot/Documents/hw2/Graph_Pattern_Matching/src/graph.cc"
+}
+]
